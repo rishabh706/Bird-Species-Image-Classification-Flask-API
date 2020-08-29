@@ -5,10 +5,10 @@
 
 # Table of Contents
 1. [Problem Statement](#problem-statement)
-2. Approach Used
-3. Results Achieved
-4. Technology Used
-5. How to Use This API
+2. [Approach Used](#approach-used)
+3. [Results Achieved](#results-achieved)
+4. [Technology Used](#technology-used)
+5. [How to Use This API](#how-to-use-this-api)
 
 # Problem Statement
 The problem statement is to classify over 225 different Species of Bird.The purpose it to develop a Deep Learning Model which can classify over 225 different species of Bird.
