@@ -36,7 +36,7 @@ Step 4:Install the required Packages by typing ```pip install -r requirements.tx
 
 Step 5:Type the following command to run the server ```python app.py```.
 
-Step 6:Open Postman If you donot have you can download from ```https://www.postman.com/downloads/```.
+Step 6:Open Postman If you don't have you can download from ```https://www.postman.com/downloads/```.
 
 Step 7:Type  ```http://127.0.0.1:5000/``` to the Post Request and Hit Send you will see a response like this
 ![Capture](https://user-images.githubusercontent.com/37527532/91639684-f0107c80-ea35-11ea-97e1-a37798ab62e3.JPG)
