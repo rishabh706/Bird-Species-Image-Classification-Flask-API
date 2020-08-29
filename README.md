@@ -1,11 +1,11 @@
 # Bird-Species-Image-Classification-Flask-API
 
 # Table of Contents
-1.Problem Statement
-2.Approach Used
-3.Results Achieved
-4.Technology Used
-5.How to Use This API
+1. Problem Statement
+2. Approach Used
+3. Results Achieved
+4. Technology Used
+5. How to Use This API
 
 # Problem Statement
 The problem statement is to classify over 225 different Species of Bird.The purpose it to develop a Deep Learning Model which can classify over 225 different species of Bird.
@@ -37,11 +37,9 @@ Step 6:Open Postman If you donot have you can download from ```https://www.postm
 
 Step 7:Type  ```http://127.0.0.1:5000/``` to the Post Request and Hit Send you will see a response like this
 ![Capture](https://user-images.githubusercontent.com/37527532/91639684-f0107c80-ea35-11ea-97e1-a37798ab62e3.JPG)
-
 If you see this welcome message then you are good to go
 
 Step 8:Type ```http://127.0.0.1:5000/predict``` and in the Body head pass the Test Image as per the following picture and Hit Send
 ![Capture2](https://user-images.githubusercontent.com/37527532/91639686-f141a980-ea35-11ea-9f5f-73003c346bf3.JPG)
-
 And there it is the Response of the predicted model.
 
