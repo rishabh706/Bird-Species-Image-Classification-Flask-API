@@ -17,7 +17,7 @@ The problem statement is to classify over 225 different Species of Bird.The purp
 Used Transfer Learning pretrained DenseNet201 and Data Augmentation along with GlobalAveragePooling to reduce the no.of trainable Parameters and Overfitting.
 
 # Results Achieved
-Achieved an overall accuracy of 97.85% on the Training Set, 95.89% on the validation set and 98.22 percent on the Testing Set.Also Achieved Macro F1 Score,precision and recall of 0.982,0.985 and 0.982.
+Achieved an overall accuracy of 97.85% on the Training Set, 95.89% on the validation set and 98.22 percent on the Testing Set.Also Achieved Macro F1 Score,precision and recall of 0.982, 0.985 and 0.982.
 
 # Technology Used
 ![112719_Python_Software_Foundation_Logo large](https://user-images.githubusercontent.com/37527532/91639130-21874900-ea32-11ea-8c44-b7c20a76452c.jpg)
