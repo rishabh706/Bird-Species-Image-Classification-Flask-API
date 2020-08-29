@@ -25,7 +25,7 @@ Step 1:Clone this Repository By typing ```git clone https://github.com/rishabh70
 
 Step 2:Open your Terminal or Bash shell and get into the project directory by typing command ```cd```.
 
-Step 3:Then Type ```conda create -n Virtual Environment Name``` to create virtual environment if you donot have conda then you can install from https://docs.conda.io/en/latest/miniconda.html as per you PC specification.
+Step 3:Then Type ```conda create -n Virtual Environment Name``` to create virtual environment if you donot have conda then you can install from ```https://docs.conda.io/en/latest/miniconda.html``` as per you PC specification.
 
 Step 4:Activate the virtual environment by typing the following command ```conda activate Name of YOUR Enviroment```.
 
@@ -33,7 +33,15 @@ Step 4:Install the required Packages by typing ```pip install -r requirements.tx
 
 Step 5:Type the following command to run the server ```python app.py```.
 
-Step 6:Open Postman If you donot have you can download from https://www.postman.com/downloads/.
+Step 6:Open Postman If you donot have you can download from ```https://www.postman.com/downloads/```.
 
-Step 7:Type  http://127.0.0.1:5000/ to the Post Request and Hit Send you will see a response like this
+Step 7:Type  ```http://127.0.0.1:5000/``` to the Post Request and Hit Send you will see a response like this
+![Capture](https://user-images.githubusercontent.com/37527532/91639684-f0107c80-ea35-11ea-97e1-a37798ab62e3.JPG)
+
+If you see this welcome message then you are good to go
+
+Step 8:Type ```http://127.0.0.1:5000/predict``` and in the Body head pass the Test Image as per the following picture and Hit Send
+![Capture2](https://user-images.githubusercontent.com/37527532/91639686-f141a980-ea35-11ea-9f5f-73003c346bf3.JPG)
+
+And there it is the Response of the predicted model.
 
