@@ -4,11 +4,11 @@
 ![1 (2)](https://user-images.githubusercontent.com/37527532/91639838-ee938400-ea36-11ea-80c8-40dac4a9a049.jpg)
 
 # Table of Contents
-1. []Problem Statement
-2. []Approach Used
-3. []Results Achieved
-4. []Technology Used
-5. []How to Use This API
+**1**. **Problem Statement**
+**2**. **Approach Used**
+**3**. **Results Achieved**
+**4**. **Technology Used**
+**5**. **How to Use This API**
 
 # Problem Statement
 The problem statement is to classify over 225 different Species of Bird.The purpose it to develop a Deep Learning Model which can classify over 225 different species of Bird.
